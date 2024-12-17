@@ -43,6 +43,7 @@ Here is an image illustrating the logic and formulas behind the block rotation:
 
 ### **Demo of the Game**
 Here is a short snippet of the game in action:
+
 https://github.com/user-attachments/assets/f1832b18-1fa5-46a2-90ee-aae9453cc522
 
 ### **Future Enhancements**
