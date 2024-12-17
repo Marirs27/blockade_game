@@ -26,7 +26,7 @@ The goal of this project was to develop a fully functional Tetris-like game usin
 #### **Instructions**:
 1. **Clone the Repository**:
    ```bash
-   git clone 
+   git clone https://github.com/Marirs27/blockade_game.git
    cd blockade
 2. **Install Dependencies**: Install Pygame using pip if it's not already installed:
    ```bash
@@ -39,9 +39,11 @@ The goal of this project was to develop a fully functional Tetris-like game usin
 The rotation of blocks (tetrominoes) was a key challenge in implementing the game. I derived mathematical formulas to determine how blocks should rotate while staying within the grid.
 
 Here is an image illustrating the logic and formulas behind the block rotation:
+![Rotation_logic](https://github.com/user-attachments/assets/cc322933-2297-495f-be96-47f62bb4c382)
 
 ### **Demo of the Game**
 Here is a short snippet of the game in action:
+https://github.com/user-attachments/assets/4f811134-f185-4f5a-806c-7870b71a00bc
 
 ### **Future Enhancements**
 There is potential to expand the game further with additional features, such as:
